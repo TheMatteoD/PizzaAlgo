@@ -1,0 +1,9 @@
+1.Decide the pizza place
+2.Decide toppings
+3.Call the pizza place chosen in step 1
+4.Order pizza
+    4a.Pay over Phone
+    4b.Pav at door
+5.Wait for delivery
+6.Greet delivery driver
+7.See step 4b if neccessary
